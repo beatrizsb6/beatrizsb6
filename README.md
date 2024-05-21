@@ -1,6 +1,6 @@
-### Boas vindas ao meu perfil###
+### Boas vindas ao meu perfil ### 💙🍓
 
-Meu nome. é Beatriz Dos Santos Andrade 
+Meu nome é Beatriz Dos Santos Andrade 
 
 - Estou estudando na [alura](https://W.w.w.alura.com.br)
 - Estou me desenvolvendo na linguagem javascript;
